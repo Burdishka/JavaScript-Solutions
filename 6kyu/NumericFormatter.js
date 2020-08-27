@@ -1,8 +1,8 @@
 /*
 6 kyu
-Generic numeric template formatter
+Generic numeric template formatter`
 
-
+https://www.codewars.com/kata/59901fb5917839fe41000029
 */
 
 unction numericFormatter(a, b) {
