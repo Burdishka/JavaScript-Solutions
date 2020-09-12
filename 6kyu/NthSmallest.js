@@ -2,7 +2,7 @@
 6 kyu
 The nth smallest integer
 
-
+https://www.codewars.com/kata/57a03b8872292dd851000069
 */
 
 function nthSmallest(arr, n) {
